@@ -1,6 +1,6 @@
 # Hi there, I'm Shadrack  👋
 
-🚀 **Tech Enthusiast | Software Developer | ICT Student**  
+🚀 **Tech Enthusiast | Full-stack Software Developer | 
 🎯 Passionate about expert systems, software development, and e-commerce solutions.  
 📍 Based in Roysambu, Kenya.  
 
